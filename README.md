@@ -1,5 +1,5 @@
-# Javascript-Games
-## ASU - Web Development Program: JavaScript Specialist								       	
+# ASU - Web Development Program 
+## JavaScript Specialist								       	
 - Completed professional-level projects utilizing JavaScript, functions and arrays, the DOM, HTML, CSS, and Bootstrap.
 - Was presented with different business scenarios, where I had to make decisions about web development projects that solved real-world business problems.
 - Created a series of games using JavaScript, emulating a real-world internship environment.
@@ -7,20 +7,20 @@
 - **Professional skills mastered:** peer and mob programming, debugging, creating projects to customer specifications, and utilizing JavaScript to create game logic and website interactions.
 
 
-- Created a series of games using JavaScript, emulating a real-world internship environment. (Repo)
-## Hi there! <img src="Assets/Hi.gif" width="29px">
+### Feel free to Demo a few of the games and sites I built using JavaScript, HTMl, and Bootstrap while @ ASU - Web Development Program.
+---
+#### Javascript Practice
+- [Match Game](https://WD2-Module-9-Final-03-Project-Game-3-Match-Game-jaguzma7.asuwd1su21.repl.co)
+- [The Higher-Lower Game](https://wd2-module-7-midterm-00-project-game-2-higherlo-jaguzma7.asuwd1su21.repl.co/)
+- [Magic 8 ball](https://wd2-module-7-midterm-00-project-game-1-magic8ba-jaguzma7.asuwd1su21.repl.co/)
+- [Encouraging Words - Text to Audio](https://wd2-module-4-00-skill-builder-words-of-encourage-jaguzma7.asuwd1su21.repl.co/)
+- [Mad Libs Madness](https://wd2-module-3-00-skill-builder-mad-libs-madness-jaguzma7.asuwd1su21.repl.co/)
+- [Fancy Carpet Area Calculator](https://WD2-Module-2-00-Skill-Builder-Fancy-Carpet-Calcu-jaguzma7.asuwd1su21.repl.co)
 
-### <img src="Assets/Developer.gif" width="45px"> About Me:
----
-- 🔭  I’m currently diving in deeper into the concepts of Web Application Development and Security.
-- 🎓  I studied Information Technology at ASU and went through their in-house coding bootcamp.
-- ✔️ Web Development, Cybersecurity, and Bug Bounty Enthusiast.
-- 😄  I enjoy surfing 🏄‍♂️, cycling 🚴 , and playing chess ♟️ on my time off.
- 
-### <img src="Assets/computer.gif" width="45px"> Technologies and Tools:
----
-- ⌨️ **Scripting Languages:** Python, PHP, Bash<br/>
-- 💾 **Networking:** Network Fundamentals, TCP/IP, Virtualization, Wireshark, Packet Tracer.<br/>
-- 🕸️ **Web Technologies:** HTML, CSS/Bootstrap, Javascript, MySQL. (Novice) AWS, Git, Docker.<br/>
-- 🔐 **Information Security** Suricata, pfSense, Kali, Metasploit, Nessus, OpenVAS, Nmap, NIST, OWASP.<br/>
+#### HTML, CSS, and Bootstrap Practice
+- [Basic Portfolio](https://module-8-11-project-milestone-1-hero-and-mission-jaguzma7.asuwd1su21.repl.co/)
+- [Photography Mini Site](https://Module-7-06-SkillBuilder-Photography-Website-jaguzma7.asuwd1su21.repl.co)
+- [Eco Friendly Carpet Website](https://module-5-07-skillbuilder-eco-friendly-carpet-cle-jaguzma7.asuwd1su21.repl.co/)
+- [Frans Flowers](https://module-4-05-skillbuilder-frans-flowers-jaguzma7.asuwd1su21.repl.co/)
+- [Foster Pet Table](https://module-3-04-skillbuilder-foster-pet-registration-jaguzma7.asuwd1su21.repl.co/)
 
