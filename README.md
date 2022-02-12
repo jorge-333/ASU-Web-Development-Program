@@ -10,7 +10,6 @@
 ### Feel free to Demo a few of the games and sites I built using JavaScript, HTML, and Bootstrap while @ ASU's - Web Development Program.
 ---
 #### Javascript Practice
-- <a href="https://WD2-Module-9-Final-03-Project-Game-3-Match-Game-jaguzma7.asuwd1su21.repl.co" target="_blank">Match Game</a>
 - [Match Game](https://WD2-Module-9-Final-03-Project-Game-3-Match-Game-jaguzma7.asuwd1su21.repl.co)
 - [The Higher-Lower Game](https://wd2-module-7-midterm-00-project-game-2-higherlo-jaguzma7.asuwd1su21.repl.co/)
 - [Magic 8 ball](https://wd2-module-7-midterm-00-project-game-1-magic8ba-jaguzma7.asuwd1su21.repl.co/)
