@@ -7,7 +7,7 @@
 - **Professional skills mastered:** peer and mob programming, debugging, creating projects to customer specifications, and utilizing JavaScript to create game logic and website interactions.
 
 
-### Feel free to Demo a few of the games and sites I built using JavaScript, HTML, and Bootstrap while @ ASU's - Web Development Program.
+### Feel free to demo a few of the games and sites I built using JavaScript, HTML, and Bootstrap while @ ASU's - Web Development Program.
 ---
 #### Javascript Practice
 - [Match Game](https://WD2-Module-9-Final-03-Project-Game-3-Match-Game-jaguzma7.asuwd1su21.repl.co)
